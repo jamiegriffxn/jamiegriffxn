@@ -2,7 +2,7 @@ Hello!
 <br>
 My name is Jamie, and I'm an Information Technologies student at Southern New Hampshire University (online) currently living in Cleveland, Ohio, USA. I also hold a Bachelor of Integrative Studies from Kent State University. 
 <br>
-I'm currently working on developing my skills in everything tech and finding a niche that interests me. I'm also looking for internship opportunities in the Cleveland area or remote. Feel free to connect with me on <a href="https://www.linkedin.com/in/jamiegriffin/" target="_blank">LinkedIn</a> to learn more! 
+I'm currently working on developing my skills in everything tech and finding a niche that interests me. I'm also looking for internship opportunities in the Cleveland area or remote. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jamiegriffin/) to learn more! 
 
 <!--
 **jamiegriffxn/jamiegriffxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
